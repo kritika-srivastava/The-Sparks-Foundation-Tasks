@@ -15,7 +15,7 @@ In this internship, we were provided a total of 6 Tasks and I was able to succes
 
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
-_Please click on the image on left side to view my solution._
+_Please click on the images on right side to view my solution._
 
 1. Predict the percentage of marks of an student based on the number of study hours.
 1. This is a simple linear regression task as it involves just 2 variables.
@@ -27,7 +27,7 @@ _Please click on the image on left side to view my solution._
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-2_Clustering.ipynb)
 
 ### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
-_Please click on the image on left side to view my solution._
+_Please click on the images on right side to view my solution._
 
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 1. Use R or Python or perform this task.
@@ -37,7 +37,7 @@ _Please click on the image on left side to view my solution._
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-3_Decision_Tree.ipynb)
 
 ### # Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
-_Please click on the image on left side to view my solution._
+_Please click on the images on right side to view my solution._
 
 1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
 1. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
@@ -47,7 +47,7 @@ _Please click on the image on left side to view my solution._
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-4_Stock_Price.ipynb)
 
 ### # Task-4 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
-_Please click on the image on left side to view my solution._
+_Please click on the images on right side to view my solution._
 
 1. Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
 1. Stock to analyze and predict SENSEX (S&P BSE SENSEX)
@@ -59,7 +59,7 @@ _Please click on the image on left side to view my solution._
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-5_Superstore.xlsx)
 
 ### # Task-5 : To Explore Business Analytics (Level - Beginner & Intermediate)
-_Please click on the image on left side to view my solution (preferably youtube)._
+_Please click on the images on right side to view my solution (preferably youtube)._
 
 1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
 1. As a business manager, try to find out the weak areas where you can work to make more profit.
@@ -72,7 +72,7 @@ _Please click on the image on left side to view my solution (preferably youtube)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-6_Covid19.twb)
 
 ### # Task-6 : Timeline Analysis : Covid-19 (Level - Advanced)
-_Please click on the image on left side to view my solution (preferably youtube)._
+_Please click on the images on right side to view my solution (preferably youtube)._
 
 1. Create a storyboard showing spread of Covid 19 cases in your country or any region (Asia, Europe, BRICS etc)
 1. Use animation, timeline and annotations to create attractive and interactive dashboards and story
