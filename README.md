@@ -49,6 +49,8 @@ _Please click on the images on right side to view my solution._
 ### # Task-4 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
 _Please click on the images on right side to view my solution._
 
+**NOTE : If you face any issue over dataset then please refer to the thread of [Issue #2](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/issues/2).**
+
 1. Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
 1. Stock to analyze and predict SENSEX (S&P BSE SENSEX)
 1. Download historical stock prices from [finance.yahoo.com](https://finance.yahoo.com/?guccounter=1)
